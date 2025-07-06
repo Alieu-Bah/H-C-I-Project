@@ -6,4 +6,5 @@ export default defineConfig({
   plugins: [  
       tailwindcss(),
 ],
+ base: '/H-C-I-Project/', 
 })
